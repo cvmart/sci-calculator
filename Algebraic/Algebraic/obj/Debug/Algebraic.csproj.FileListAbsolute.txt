@@ -1,0 +1,4 @@
+E:\C# III\Wk6\Algebraic\Algebraic\bin\Debug\Algebraic.dll
+E:\C# III\Wk6\Algebraic\Algebraic\bin\Debug\Algebraic.pdb
+E:\C# III\Wk6\Algebraic\Algebraic\obj\Debug\Algebraic.dll
+E:\C# III\Wk6\Algebraic\Algebraic\obj\Debug\Algebraic.pdb

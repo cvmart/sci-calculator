@@ -1,0 +1,4 @@
+E:\C# III\Wk6\BasicMath\BasicMath\bin\Debug\BasicMath.dll
+E:\C# III\Wk6\BasicMath\BasicMath\bin\Debug\BasicMath.pdb
+E:\C# III\Wk6\BasicMath\BasicMath\obj\Debug\BasicMath.dll
+E:\C# III\Wk6\BasicMath\BasicMath\obj\Debug\BasicMath.pdb

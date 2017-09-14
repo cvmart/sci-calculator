@@ -1,0 +1,4 @@
+E:\C# III\Wk6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.dll
+E:\C# III\Wk6\Trigonometric\Trigonometric\bin\Debug\Trigonometric.pdb
+E:\C# III\Wk6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.dll
+E:\C# III\Wk6\Trigonometric\Trigonometric\obj\Debug\Trigonometric.pdb
